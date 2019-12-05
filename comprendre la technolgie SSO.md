@@ -8,3 +8,4 @@ Dans un système d´authentification unique, on trouve en général les élémen
 Eventuellement le portail web qui centralise l´accès aux applications autorisées (service d´authentification) et donne une vision globale à l´utilisateur de l´ensemble des applications auxquelles il a droit. 
 
 ## Fonctionnement d´un SSO
+d
