@@ -6,3 +6,5 @@ Dans un système d´authentification unique, on trouve en général les élémen
 - Le serveur d´application qui ne délivre les ressources qu´après s´être assuré que le navigateur qui l´accède se soit authentifié auprès du serveur d´authentification. 
 - L´agent qui vérifie que l´utilisateur est authentifié. 
 Eventuellement le portail web qui centralise l´accès aux applications autorisées (service d´authentification) et donne une vision globale à l´utilisateur de l´ensemble des applications auxquelles il a droit. 
+
+## Fonctionnement d´un SSO
